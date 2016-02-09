@@ -1,9 +1,20 @@
 div{
-    background-color: #f00;
+    background-color: #ff0;
 }
 #diamond{
     width: 50%;
 }
 #fire{
     width: 30%;
+}
+#text #text1{
+    font-size: 10px;
+}
+#text #text2{
+    text-align: center;
+    font-size: 30px;
+    color: #f00;
+}
+#text #text3{
+    color: #00f;
 }
