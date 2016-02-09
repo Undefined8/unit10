@@ -1,7 +1,9 @@
 div{
     background-color: #ff0;
+    width: 50%;
 }
 #diamond{
+    border-radius: 100px;
     width: 50%;
 }
 #fire{
@@ -17,4 +19,8 @@ div{
 }
 #text #text3{
     color: #00f;
+}
+button{
+    background-color: #0f0;
+    border-radius: 100px;
 }
